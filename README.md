@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Matos</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Numax**
-
 - 🌱 I’m currently learning **Angular, Typescript and Entity Framework Core**
 
 - 💬 Ask me about **AngularJs, Angular, .NET, SQL Server, Cypress, Test Cases**
